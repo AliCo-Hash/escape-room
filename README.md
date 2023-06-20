@@ -8,7 +8,7 @@ This is a Makers Academy final project created in two weeks by: [Ali](https://gi
 
 # How to play
 
-Link to game: https://get-me-out-of-here-game.herokuapp.com/
+Link to game: https://escape-room-snowy.vercel.app/
 
 - Hover over page elements to interact 
 - Type in answers to complete puzzles
